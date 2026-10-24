@@ -62,3 +62,6 @@ tap-testdir*/
 !/workspaces/libnpmsearch/
 !/workspaces/libnpmteam/
 !/workspaces/libnpmversion/
+
+# Local Netlify folder
+.netlify
